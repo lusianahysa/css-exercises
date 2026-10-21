@@ -8,6 +8,7 @@ This repository contains my personal solutions and progress as I work through th
 
 - **Intro to CSS** (`/foundations/intro-to-css/`)
 - **Cascade fix** (`/foundations/cascade/01-cascade-fix`)
+- **Block and inline elements** (`/foundations/block-and-inline/`)
 
 ---
 # CSS Exercises
